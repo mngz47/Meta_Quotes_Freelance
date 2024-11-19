@@ -5,5 +5,5 @@ Python telegram to metatrader 4/5
 
 Technical solution to MQL4/5 Indicator or Expert advisor.
 
-Custom jobs on demand - Globally tested stategies
+Custom jobs on demand - Globally tested strategies
 
