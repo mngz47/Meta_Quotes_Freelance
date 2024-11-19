@@ -3,7 +3,7 @@ Convert Pine Script to MQL4/5
 
 Python telegram to metatrader 4/5
 
-Custom jobs on demand
+Technical solution to MQL4/5 Indicator or Expert advisor.
 
-Globally tested stategies
+Custom jobs on demand - Globally tested stategies
 
