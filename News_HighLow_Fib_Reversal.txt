@@ -1,0 +1,77 @@
+
+
+Logic:
+
+On the time of the latest news as is released weekly on the forex factory api (https://nfs.faireconomy.media/ff_calendar_thisweek.xml) the MT4 expert advisor will wait for retracement to the recent high or low then when a reversal signal is produced an entry will be executed with the stop loss being 40 pips below or above high or low and the take profit being on the opposing high or low.
+
+The EA will mark the time of news events based on the selected pair. If the GBPJPY pair is selected then the EA should load the Asian events for the week. If GBPUSD, EURUSD or XAUUSD pair is selected then the EA should load all US based events. The same goes for British and Australian events.
+
+The reversal signal will be valid only if within the desired fibonacci price range and high low price range. Using the screenshot as example the fib price range will be 1.08620 - 1.10890
+High low price range 1.09119 - 1.09373 
+
+The execution of entry, stop loss and take profit will be effective on price close on a lower time frame to combat slippage and manipulation.
+
+Key Features:
+
+Forex Factory News Mapping - 
+
+fibonacci Indicator -
+
+Reversal indicator - 
+
+High and Low Indicator -
+
+
+Conclusion
+
+Currently I have access to the fibonacci, high and low and reversal indicators. I will spend the next 24hrs fine tuning, fetching data from Forex Factory and representing the events for the different pairs as vertical lines. When the vertical line is highlighted it will show the name and time of the event.  
+
+
+20/11/24
+
+Tools>Options>Expert Advisor>Allow Web Requests:
+
+https://nfs.faireconomy.media
+https://www.worldtimeapi.org
+
+
+Research - Web Requests
+
+https://docs.mql4.com/common/webrequest
+
+https://www.mql5.com/en/forum/228687
+
+  string cookie=NULL,headers;
+   char post[],result[];
+   int res;
+   string resultString=NULL;
+   
+   int timeout=5000;
+   res=WebRequest("GET","localhost/api/signal/fx?r=op",cookie,NULL,timeout,post,0,result,headers); 
+ 
+   resultString = CharArrayToString(result);
+
+Time API
+
+https://www.worldtimeapi.org/api/timezone/Europe/London
+
+Text Manipulation
+
+https://docs.mql4.com/strings/stringsplit
+String to datetime
+https://docs.mql4.com/convert/strtotime
+
+https://docs.mql4.com/strings/stringsubstr
+
+https://docs.mql4.com/strings/stringfind
+
+Window Object
+
+News event line:
+
+https://docs.mql4.com/constants/objectconstants/enum_object/obj_vline
+
+ObjectCreate(chart_ID,name,OBJ_VLINE,sub_window,time,0)
+
+
+
