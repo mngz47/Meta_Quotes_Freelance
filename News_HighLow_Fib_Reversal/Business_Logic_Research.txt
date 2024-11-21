@@ -73,5 +73,25 @@ https://docs.mql4.com/constants/objectconstants/enum_object/obj_vline
 
 ObjectCreate(chart_ID,name,OBJ_VLINE,sub_window,time,0)
 
+21/11/24
 
+https://docs.mql4.com/common/print
+
+https://docs.mql4.com/chart_operations/symbolwindow
+
+https://docs.mql4.com/array/arrayinitialize
+
+https://docs.mql4.com/strings/stringlen
+
+https://stackoverflow.com/questions/53268400/how-do-you-add-an-item-to-an-array-in-mql4
+
+https://forex-station.com/app.php/attach/file/3364319
+
+https://www.forexfactory.com/thread/166758-i-will-code-your-eas-and-indicators-for?page=2928
+___________________________
+
+Tools>Options>Expert Advisor>Allow Web Requests:
+
+https://nfs.faireconomy.media
+https://www.worldtimeapi.org
 
