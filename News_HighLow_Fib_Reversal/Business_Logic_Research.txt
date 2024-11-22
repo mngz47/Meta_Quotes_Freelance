@@ -95,3 +95,32 @@ Tools>Options>Expert Advisor>Allow Web Requests:
 https://nfs.faireconomy.media
 https://www.worldtimeapi.org
 
+___________________________
+22/11/24
+
+https://stackoverflow.com/questions/67492410/how-to-remove-a-certain-part-of-a-string-if-exists
+
+https://docs.mql4.com/basis/variables/inputvariables
+
+input option
+
+NewsImpact : 
+
+All,Low,High
+
+ServerTimeZone : 
+
+Asia/Tokyo
+Europe/London
+America/New_York
+
+___________________________
+
+
+
+
+
+
+
+
+
