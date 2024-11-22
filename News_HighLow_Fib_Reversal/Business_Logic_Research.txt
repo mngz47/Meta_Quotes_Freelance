@@ -114,7 +114,13 @@ Asia/Tokyo
 Europe/London
 America/New_York
 
-___________________________
+___________________________Event Detection
+Adding Time in Mql4
+
+https://www.mql5.com/en/forum/39699
+
+//30 minutes time window to detect event - look for entry indefinately - once entry is found event detection will be deactivated
+//When volitilty number on bottom left corner is green the EA has deteced event and is looking for entry.
 
 
 
