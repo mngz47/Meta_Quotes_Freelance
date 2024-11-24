@@ -29,12 +29,17 @@ https://www.mql5.com/en/articles/117#executing_job
 https://docs.mql4.com/account/accountnumber
 
 <h2>Common Requests (30 coders)</h2>
-Profitable EA with investor Password Proof</br>
+Profitable EA with proof</br>
 Grid Ea for gold with proof</br>
 Account Manager with proof</br>
 
+Trading robot that works on mobile phone</br>
+Trade Copier Expert Developer Needed</br>
+MT4 to MT5 Trading Bot Conversion</br>
+
+Reverse engineer ex4 file to Source Code</br>
 Custom request for EA</br>
-Medium Systems Integration with mt4/mt5 for Desktop and Mobile</br>
+Medium to Large Systems Integration with mt4/mt5 for Desktop and Mobile</br>
 
 <h2>Account Manager</h2>
 
