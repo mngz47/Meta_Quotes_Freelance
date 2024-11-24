@@ -1,0 +1,19 @@
+
+AccountsTable.csv
+
+fields:
+username, password, account_type, Access,	Start subscription,	End of subscription,	Broker allowed,	Minimum Value of the account to allow trading, Trade restriction to max leverage of 
+                                  granted
+                                  denied
+
+TradesTable.csv
+
+fields:
+ordertype, order_size , currency , stoploss , takeprofit , date_time
+
+
+
+
+Save on google drive
+
+https://docs.mql4.com/common/webrequest
