@@ -58,17 +58,18 @@ ______________________Steady money
 </br>
 Pinbar Support Resistance standard account trading US30 only</br>
 2000 usd initial investment</br>
-https://www.youtube.com/watch?v=hnIEhz4tHxY
+https://www.youtube.com/watch?v=hnIEhz4tHxY</br>
 </br>
 <b>Check Results</b>
 </br>
 Broker: FundedNext-Demo</br>
 Login: 22157372</br>
 Password:  jxeEC63##</br>
-_______________________
+</br>
+_______________________</br>
 I don't do manual trading.</br>
 50/50 profit split end of each week.</br>
 After 2 months we can upload system on VPS for peace of mind</br>
-_________________________
+_________________________</br>
 Fund the account and send me logins. I will then plug the machinery and we can get started.</br>
 The best option is to run both the options simultaneously on 2 different accounts so that they hedge against each other - therefore spreading risk
