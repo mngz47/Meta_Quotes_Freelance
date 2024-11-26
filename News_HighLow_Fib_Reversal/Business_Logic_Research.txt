@@ -41,19 +41,11 @@ https://docs.mql4.com/common/webrequest
 
 https://www.mql5.com/en/forum/228687
 
-  string cookie=NULL,headers;
-   char post[],result[];
-   int res;
-   string resultString=NULL;
-   
-   int timeout=5000;
-   res=WebRequest("GET","localhost/api/signal/fx?r=op",cookie,NULL,timeout,post,0,result,headers); 
- 
-   resultString = CharArrayToString(result);
-
 Time API
 
 https://www.worldtimeapi.org/api/timezone/Europe/London
+
+https://docs.mql4.com/dateandtime/timecurrent
 
 Text Manipulation
 
